@@ -1,0 +1,5 @@
+rootProject.name = 'tickets'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
